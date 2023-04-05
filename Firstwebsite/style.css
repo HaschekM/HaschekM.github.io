@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/topography.png);
+    background-color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.developer {
+    color: #ff0099;
+}
+.hyphens  {
+    text-align: center;
+
+}
+
+nav {
+    float: right;
+    padding-top: 11px;
+    padding-right: 2px;
+}
+a {
+    color: #ff0099;
+    padding-right: 30px;
+}
+
+.wiki {
+    text-align: center;
+}
+header {
+    background-color: #333333;
+    text-transform: uppercase;
+    height: 45px;
+    width: 100%;
+    position: absolute; top: 0; left: 0;
+}
+img {
+    padding-left: 10%;
+    padding-top: 6px;
+}
+main h1 {
+    padding-top: 75px;
+}
+.wikiwiki {
+    padding-top: 60px;
+}
